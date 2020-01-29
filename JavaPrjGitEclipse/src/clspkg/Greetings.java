@@ -16,6 +16,7 @@ public class Greetings {
 
 		System.out.println("Greetings LYIT student!");
 		System.out.println("Testing an update...");
+		System.out.println("And another update!");
 
 	}
 
